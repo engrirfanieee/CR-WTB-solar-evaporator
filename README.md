@@ -82,6 +82,3 @@ If you use this code, please cite the paper and this repository. Citation detail
 
 MIT licence. See `LICENSE`.
 
-## Disclosure
-
-The model formulation, code and figures were developed with the help of the generative AI model Claude Opus 5.5 (Anthropic), as declared in the manuscript. The author checked the code and takes responsibility for it.
