@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and this software."
+title: "Char-retentive pyrolysis of wind turbine blades for floating solar evaporators: simulation code"
+version: 1.0.0
+date-released: 2026-11-18
+license: MIT
+repository-code: "https://github.com/USERNAME/CR-WTB-solar-evaporator"
+keywords:
+  - wind turbine blade recycling
+  - pyrolysis char
+  - solar interfacial evaporation
+  - desalination
+  - MATLAB
+authors:
+  - family-names: "FAMILY-NAME"
+    given-names: "GIVEN-NAMES"
+    affiliation: "AFFILIATION"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+preferred-citation:
+  type: article
+  title: "Char-Retentive Partial Pyrolysis of End-of-Life Wind Turbine Blades for Floating Solar Interfacial Evaporators: A Model-Based Design Study"
+  authors:
+    - family-names: "FAMILY-NAME"
+      given-names: "GIVEN-NAMES"
+  journal: "Chemical Engineering Journal: Green and Sustainable"
+  year: 2026
+  status: submitted
